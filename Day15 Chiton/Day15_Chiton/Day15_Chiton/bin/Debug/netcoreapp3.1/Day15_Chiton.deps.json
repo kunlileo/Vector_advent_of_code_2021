@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Day15_Chiton/1.0.0": {
+        "runtime": {
+          "Day15_Chiton.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day15_Chiton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

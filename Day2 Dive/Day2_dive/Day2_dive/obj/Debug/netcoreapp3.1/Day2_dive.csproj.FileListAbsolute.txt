@@ -1,0 +1,13 @@
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day2 Dive\Day2_dive\Day2_dive\bin\Debug\netcoreapp3.1\Day2_dive.exe
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day2 Dive\Day2_dive\Day2_dive\bin\Debug\netcoreapp3.1\Day2_dive.deps.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day2 Dive\Day2_dive\Day2_dive\bin\Debug\netcoreapp3.1\Day2_dive.runtimeconfig.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day2 Dive\Day2_dive\Day2_dive\bin\Debug\netcoreapp3.1\Day2_dive.runtimeconfig.dev.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day2 Dive\Day2_dive\Day2_dive\bin\Debug\netcoreapp3.1\Day2_dive.dll
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day2 Dive\Day2_dive\Day2_dive\bin\Debug\netcoreapp3.1\Day2_dive.pdb
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day2 Dive\Day2_dive\Day2_dive\obj\Debug\netcoreapp3.1\Day2_dive.csprojAssemblyReference.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day2 Dive\Day2_dive\Day2_dive\obj\Debug\netcoreapp3.1\Day2_dive.AssemblyInfoInputs.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day2 Dive\Day2_dive\Day2_dive\obj\Debug\netcoreapp3.1\Day2_dive.AssemblyInfo.cs
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day2 Dive\Day2_dive\Day2_dive\obj\Debug\netcoreapp3.1\Day2_dive.csproj.CoreCompileInputs.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day2 Dive\Day2_dive\Day2_dive\obj\Debug\netcoreapp3.1\Day2_dive.dll
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day2 Dive\Day2_dive\Day2_dive\obj\Debug\netcoreapp3.1\Day2_dive.pdb
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day2 Dive\Day2_dive\Day2_dive\obj\Debug\netcoreapp3.1\Day2_dive.genruntimeconfig.cache

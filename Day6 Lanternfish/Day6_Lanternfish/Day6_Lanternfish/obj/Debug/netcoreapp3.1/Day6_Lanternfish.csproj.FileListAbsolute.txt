@@ -1,0 +1,13 @@
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day6 Lanternfish\Day6_Lanternfish\Day6_Lanternfish\bin\Debug\netcoreapp3.1\Day6_Lanternfish.exe
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day6 Lanternfish\Day6_Lanternfish\Day6_Lanternfish\bin\Debug\netcoreapp3.1\Day6_Lanternfish.deps.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day6 Lanternfish\Day6_Lanternfish\Day6_Lanternfish\bin\Debug\netcoreapp3.1\Day6_Lanternfish.runtimeconfig.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day6 Lanternfish\Day6_Lanternfish\Day6_Lanternfish\bin\Debug\netcoreapp3.1\Day6_Lanternfish.runtimeconfig.dev.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day6 Lanternfish\Day6_Lanternfish\Day6_Lanternfish\bin\Debug\netcoreapp3.1\Day6_Lanternfish.dll
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day6 Lanternfish\Day6_Lanternfish\Day6_Lanternfish\bin\Debug\netcoreapp3.1\Day6_Lanternfish.pdb
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day6 Lanternfish\Day6_Lanternfish\Day6_Lanternfish\obj\Debug\netcoreapp3.1\Day6_Lanternfish.csprojAssemblyReference.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day6 Lanternfish\Day6_Lanternfish\Day6_Lanternfish\obj\Debug\netcoreapp3.1\Day6_Lanternfish.AssemblyInfoInputs.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day6 Lanternfish\Day6_Lanternfish\Day6_Lanternfish\obj\Debug\netcoreapp3.1\Day6_Lanternfish.AssemblyInfo.cs
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day6 Lanternfish\Day6_Lanternfish\Day6_Lanternfish\obj\Debug\netcoreapp3.1\Day6_Lanternfish.csproj.CoreCompileInputs.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day6 Lanternfish\Day6_Lanternfish\Day6_Lanternfish\obj\Debug\netcoreapp3.1\Day6_Lanternfish.dll
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day6 Lanternfish\Day6_Lanternfish\Day6_Lanternfish\obj\Debug\netcoreapp3.1\Day6_Lanternfish.pdb
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day6 Lanternfish\Day6_Lanternfish\Day6_Lanternfish\obj\Debug\netcoreapp3.1\Day6_Lanternfish.genruntimeconfig.cache

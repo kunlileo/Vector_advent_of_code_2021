@@ -1,0 +1,13 @@
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day8_Seven_Segment_Search\Day8_Seven_Segment_Search\bin\Debug\netcoreapp3.1\Day8_Seven_Segment_Search.exe
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day8_Seven_Segment_Search\Day8_Seven_Segment_Search\bin\Debug\netcoreapp3.1\Day8_Seven_Segment_Search.deps.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day8_Seven_Segment_Search\Day8_Seven_Segment_Search\bin\Debug\netcoreapp3.1\Day8_Seven_Segment_Search.runtimeconfig.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day8_Seven_Segment_Search\Day8_Seven_Segment_Search\bin\Debug\netcoreapp3.1\Day8_Seven_Segment_Search.runtimeconfig.dev.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day8_Seven_Segment_Search\Day8_Seven_Segment_Search\bin\Debug\netcoreapp3.1\Day8_Seven_Segment_Search.dll
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day8_Seven_Segment_Search\Day8_Seven_Segment_Search\bin\Debug\netcoreapp3.1\Day8_Seven_Segment_Search.pdb
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day8_Seven_Segment_Search\Day8_Seven_Segment_Search\obj\Debug\netcoreapp3.1\Day8_Seven_Segment_Search.csprojAssemblyReference.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day8_Seven_Segment_Search\Day8_Seven_Segment_Search\obj\Debug\netcoreapp3.1\Day8_Seven_Segment_Search.AssemblyInfoInputs.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day8_Seven_Segment_Search\Day8_Seven_Segment_Search\obj\Debug\netcoreapp3.1\Day8_Seven_Segment_Search.AssemblyInfo.cs
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day8_Seven_Segment_Search\Day8_Seven_Segment_Search\obj\Debug\netcoreapp3.1\Day8_Seven_Segment_Search.csproj.CoreCompileInputs.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day8_Seven_Segment_Search\Day8_Seven_Segment_Search\obj\Debug\netcoreapp3.1\Day8_Seven_Segment_Search.dll
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day8_Seven_Segment_Search\Day8_Seven_Segment_Search\obj\Debug\netcoreapp3.1\Day8_Seven_Segment_Search.pdb
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day8_Seven_Segment_Search\Day8_Seven_Segment_Search\obj\Debug\netcoreapp3.1\Day8_Seven_Segment_Search.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day10 Syntax Scoring\Day10_Syntax_Scoring\Day10_Syntax_Scoring\bin\Debug\netcoreapp3.1\Day10_Syntax_Scoring.exe
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day10 Syntax Scoring\Day10_Syntax_Scoring\Day10_Syntax_Scoring\bin\Debug\netcoreapp3.1\Day10_Syntax_Scoring.deps.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day10 Syntax Scoring\Day10_Syntax_Scoring\Day10_Syntax_Scoring\bin\Debug\netcoreapp3.1\Day10_Syntax_Scoring.runtimeconfig.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day10 Syntax Scoring\Day10_Syntax_Scoring\Day10_Syntax_Scoring\bin\Debug\netcoreapp3.1\Day10_Syntax_Scoring.runtimeconfig.dev.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day10 Syntax Scoring\Day10_Syntax_Scoring\Day10_Syntax_Scoring\bin\Debug\netcoreapp3.1\Day10_Syntax_Scoring.dll
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day10 Syntax Scoring\Day10_Syntax_Scoring\Day10_Syntax_Scoring\bin\Debug\netcoreapp3.1\Day10_Syntax_Scoring.pdb
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day10 Syntax Scoring\Day10_Syntax_Scoring\Day10_Syntax_Scoring\obj\Debug\netcoreapp3.1\Day10_Syntax_Scoring.csprojAssemblyReference.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day10 Syntax Scoring\Day10_Syntax_Scoring\Day10_Syntax_Scoring\obj\Debug\netcoreapp3.1\Day10_Syntax_Scoring.AssemblyInfoInputs.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day10 Syntax Scoring\Day10_Syntax_Scoring\Day10_Syntax_Scoring\obj\Debug\netcoreapp3.1\Day10_Syntax_Scoring.AssemblyInfo.cs
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day10 Syntax Scoring\Day10_Syntax_Scoring\Day10_Syntax_Scoring\obj\Debug\netcoreapp3.1\Day10_Syntax_Scoring.csproj.CoreCompileInputs.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day10 Syntax Scoring\Day10_Syntax_Scoring\Day10_Syntax_Scoring\obj\Debug\netcoreapp3.1\Day10_Syntax_Scoring.dll
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day10 Syntax Scoring\Day10_Syntax_Scoring\Day10_Syntax_Scoring\obj\Debug\netcoreapp3.1\Day10_Syntax_Scoring.pdb
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day10 Syntax Scoring\Day10_Syntax_Scoring\Day10_Syntax_Scoring\obj\Debug\netcoreapp3.1\Day10_Syntax_Scoring.genruntimeconfig.cache

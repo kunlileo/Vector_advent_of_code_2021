@@ -1,0 +1,13 @@
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day4 Giant Squid\Day4 Giant Squid\Day4 Giant Squid\obj\Debug\netcoreapp3.1\Day4 Giant Squid.csprojAssemblyReference.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day4 Giant Squid\Day4 Giant Squid\Day4 Giant Squid\obj\Debug\netcoreapp3.1\Day4 Giant Squid.AssemblyInfoInputs.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day4 Giant Squid\Day4 Giant Squid\Day4 Giant Squid\obj\Debug\netcoreapp3.1\Day4 Giant Squid.AssemblyInfo.cs
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day4 Giant Squid\Day4 Giant Squid\Day4 Giant Squid\obj\Debug\netcoreapp3.1\Day4 Giant Squid.csproj.CoreCompileInputs.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day4 Giant Squid\Day4 Giant Squid\Day4 Giant Squid\bin\Debug\netcoreapp3.1\Day4 Giant Squid.exe
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day4 Giant Squid\Day4 Giant Squid\Day4 Giant Squid\bin\Debug\netcoreapp3.1\Day4 Giant Squid.deps.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day4 Giant Squid\Day4 Giant Squid\Day4 Giant Squid\bin\Debug\netcoreapp3.1\Day4 Giant Squid.runtimeconfig.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day4 Giant Squid\Day4 Giant Squid\Day4 Giant Squid\bin\Debug\netcoreapp3.1\Day4 Giant Squid.runtimeconfig.dev.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day4 Giant Squid\Day4 Giant Squid\Day4 Giant Squid\bin\Debug\netcoreapp3.1\Day4 Giant Squid.dll
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day4 Giant Squid\Day4 Giant Squid\Day4 Giant Squid\bin\Debug\netcoreapp3.1\Day4 Giant Squid.pdb
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day4 Giant Squid\Day4 Giant Squid\Day4 Giant Squid\obj\Debug\netcoreapp3.1\Day4 Giant Squid.dll
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day4 Giant Squid\Day4 Giant Squid\Day4 Giant Squid\obj\Debug\netcoreapp3.1\Day4 Giant Squid.pdb
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day4 Giant Squid\Day4 Giant Squid\Day4 Giant Squid\obj\Debug\netcoreapp3.1\Day4 Giant Squid.genruntimeconfig.cache

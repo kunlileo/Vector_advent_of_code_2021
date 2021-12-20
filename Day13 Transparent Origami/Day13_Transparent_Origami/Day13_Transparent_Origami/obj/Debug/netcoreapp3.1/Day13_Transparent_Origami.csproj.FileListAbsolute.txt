@@ -1,0 +1,13 @@
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day13 Transparent Origami\Day13_Transparent_Origami\Day13_Transparent_Origami\bin\Debug\netcoreapp3.1\Day13_Transparent_Origami.exe
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day13 Transparent Origami\Day13_Transparent_Origami\Day13_Transparent_Origami\bin\Debug\netcoreapp3.1\Day13_Transparent_Origami.deps.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day13 Transparent Origami\Day13_Transparent_Origami\Day13_Transparent_Origami\bin\Debug\netcoreapp3.1\Day13_Transparent_Origami.runtimeconfig.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day13 Transparent Origami\Day13_Transparent_Origami\Day13_Transparent_Origami\bin\Debug\netcoreapp3.1\Day13_Transparent_Origami.runtimeconfig.dev.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day13 Transparent Origami\Day13_Transparent_Origami\Day13_Transparent_Origami\bin\Debug\netcoreapp3.1\Day13_Transparent_Origami.dll
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day13 Transparent Origami\Day13_Transparent_Origami\Day13_Transparent_Origami\bin\Debug\netcoreapp3.1\Day13_Transparent_Origami.pdb
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day13 Transparent Origami\Day13_Transparent_Origami\Day13_Transparent_Origami\obj\Debug\netcoreapp3.1\Day13_Transparent_Origami.csprojAssemblyReference.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day13 Transparent Origami\Day13_Transparent_Origami\Day13_Transparent_Origami\obj\Debug\netcoreapp3.1\Day13_Transparent_Origami.AssemblyInfoInputs.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day13 Transparent Origami\Day13_Transparent_Origami\Day13_Transparent_Origami\obj\Debug\netcoreapp3.1\Day13_Transparent_Origami.AssemblyInfo.cs
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day13 Transparent Origami\Day13_Transparent_Origami\Day13_Transparent_Origami\obj\Debug\netcoreapp3.1\Day13_Transparent_Origami.csproj.CoreCompileInputs.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day13 Transparent Origami\Day13_Transparent_Origami\Day13_Transparent_Origami\obj\Debug\netcoreapp3.1\Day13_Transparent_Origami.dll
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day13 Transparent Origami\Day13_Transparent_Origami\Day13_Transparent_Origami\obj\Debug\netcoreapp3.1\Day13_Transparent_Origami.pdb
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day13 Transparent Origami\Day13_Transparent_Origami\Day13_Transparent_Origami\obj\Debug\netcoreapp3.1\Day13_Transparent_Origami.genruntimeconfig.cache

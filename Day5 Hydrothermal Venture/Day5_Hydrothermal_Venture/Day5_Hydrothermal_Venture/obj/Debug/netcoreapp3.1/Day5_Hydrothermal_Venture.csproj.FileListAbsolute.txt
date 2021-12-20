@@ -1,0 +1,13 @@
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day5 Hydrothermal Venture\Day5_Hydrothermal_Venture\Day5_Hydrothermal_Venture\obj\Debug\netcoreapp3.1\Day5_Hydrothermal_Venture.csprojAssemblyReference.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day5 Hydrothermal Venture\Day5_Hydrothermal_Venture\Day5_Hydrothermal_Venture\obj\Debug\netcoreapp3.1\Day5_Hydrothermal_Venture.AssemblyInfoInputs.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day5 Hydrothermal Venture\Day5_Hydrothermal_Venture\Day5_Hydrothermal_Venture\obj\Debug\netcoreapp3.1\Day5_Hydrothermal_Venture.AssemblyInfo.cs
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day5 Hydrothermal Venture\Day5_Hydrothermal_Venture\Day5_Hydrothermal_Venture\obj\Debug\netcoreapp3.1\Day5_Hydrothermal_Venture.csproj.CoreCompileInputs.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day5 Hydrothermal Venture\Day5_Hydrothermal_Venture\Day5_Hydrothermal_Venture\bin\Debug\netcoreapp3.1\Day5_Hydrothermal_Venture.exe
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day5 Hydrothermal Venture\Day5_Hydrothermal_Venture\Day5_Hydrothermal_Venture\bin\Debug\netcoreapp3.1\Day5_Hydrothermal_Venture.deps.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day5 Hydrothermal Venture\Day5_Hydrothermal_Venture\Day5_Hydrothermal_Venture\bin\Debug\netcoreapp3.1\Day5_Hydrothermal_Venture.runtimeconfig.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day5 Hydrothermal Venture\Day5_Hydrothermal_Venture\Day5_Hydrothermal_Venture\bin\Debug\netcoreapp3.1\Day5_Hydrothermal_Venture.runtimeconfig.dev.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day5 Hydrothermal Venture\Day5_Hydrothermal_Venture\Day5_Hydrothermal_Venture\bin\Debug\netcoreapp3.1\Day5_Hydrothermal_Venture.dll
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day5 Hydrothermal Venture\Day5_Hydrothermal_Venture\Day5_Hydrothermal_Venture\bin\Debug\netcoreapp3.1\Day5_Hydrothermal_Venture.pdb
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day5 Hydrothermal Venture\Day5_Hydrothermal_Venture\Day5_Hydrothermal_Venture\obj\Debug\netcoreapp3.1\Day5_Hydrothermal_Venture.dll
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day5 Hydrothermal Venture\Day5_Hydrothermal_Venture\Day5_Hydrothermal_Venture\obj\Debug\netcoreapp3.1\Day5_Hydrothermal_Venture.pdb
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day5 Hydrothermal Venture\Day5_Hydrothermal_Venture\Day5_Hydrothermal_Venture\obj\Debug\netcoreapp3.1\Day5_Hydrothermal_Venture.genruntimeconfig.cache

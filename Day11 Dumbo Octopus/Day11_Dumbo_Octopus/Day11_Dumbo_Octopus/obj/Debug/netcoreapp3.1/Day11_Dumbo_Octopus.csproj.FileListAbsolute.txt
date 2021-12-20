@@ -1,0 +1,13 @@
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day11 Dumbo Octopus\Day11_Dumbo_Octopus\Day11_Dumbo_Octopus\bin\Debug\netcoreapp3.1\Day11_Dumbo_Octopus.exe
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day11 Dumbo Octopus\Day11_Dumbo_Octopus\Day11_Dumbo_Octopus\bin\Debug\netcoreapp3.1\Day11_Dumbo_Octopus.deps.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day11 Dumbo Octopus\Day11_Dumbo_Octopus\Day11_Dumbo_Octopus\bin\Debug\netcoreapp3.1\Day11_Dumbo_Octopus.runtimeconfig.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day11 Dumbo Octopus\Day11_Dumbo_Octopus\Day11_Dumbo_Octopus\bin\Debug\netcoreapp3.1\Day11_Dumbo_Octopus.runtimeconfig.dev.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day11 Dumbo Octopus\Day11_Dumbo_Octopus\Day11_Dumbo_Octopus\bin\Debug\netcoreapp3.1\Day11_Dumbo_Octopus.dll
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day11 Dumbo Octopus\Day11_Dumbo_Octopus\Day11_Dumbo_Octopus\bin\Debug\netcoreapp3.1\Day11_Dumbo_Octopus.pdb
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day11 Dumbo Octopus\Day11_Dumbo_Octopus\Day11_Dumbo_Octopus\obj\Debug\netcoreapp3.1\Day11_Dumbo_Octopus.csprojAssemblyReference.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day11 Dumbo Octopus\Day11_Dumbo_Octopus\Day11_Dumbo_Octopus\obj\Debug\netcoreapp3.1\Day11_Dumbo_Octopus.AssemblyInfoInputs.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day11 Dumbo Octopus\Day11_Dumbo_Octopus\Day11_Dumbo_Octopus\obj\Debug\netcoreapp3.1\Day11_Dumbo_Octopus.AssemblyInfo.cs
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day11 Dumbo Octopus\Day11_Dumbo_Octopus\Day11_Dumbo_Octopus\obj\Debug\netcoreapp3.1\Day11_Dumbo_Octopus.csproj.CoreCompileInputs.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day11 Dumbo Octopus\Day11_Dumbo_Octopus\Day11_Dumbo_Octopus\obj\Debug\netcoreapp3.1\Day11_Dumbo_Octopus.dll
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day11 Dumbo Octopus\Day11_Dumbo_Octopus\Day11_Dumbo_Octopus\obj\Debug\netcoreapp3.1\Day11_Dumbo_Octopus.pdb
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day11 Dumbo Octopus\Day11_Dumbo_Octopus\Day11_Dumbo_Octopus\obj\Debug\netcoreapp3.1\Day11_Dumbo_Octopus.genruntimeconfig.cache

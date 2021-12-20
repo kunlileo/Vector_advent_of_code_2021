@@ -1,0 +1,13 @@
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day7_The_Treachery_of_Whales\Day7_The_Treachery_of_Whales\bin\Debug\netcoreapp3.1\Day7_The_Treachery_of_Whales.exe
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day7_The_Treachery_of_Whales\Day7_The_Treachery_of_Whales\bin\Debug\netcoreapp3.1\Day7_The_Treachery_of_Whales.deps.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day7_The_Treachery_of_Whales\Day7_The_Treachery_of_Whales\bin\Debug\netcoreapp3.1\Day7_The_Treachery_of_Whales.runtimeconfig.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day7_The_Treachery_of_Whales\Day7_The_Treachery_of_Whales\bin\Debug\netcoreapp3.1\Day7_The_Treachery_of_Whales.runtimeconfig.dev.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day7_The_Treachery_of_Whales\Day7_The_Treachery_of_Whales\bin\Debug\netcoreapp3.1\Day7_The_Treachery_of_Whales.dll
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day7_The_Treachery_of_Whales\Day7_The_Treachery_of_Whales\bin\Debug\netcoreapp3.1\Day7_The_Treachery_of_Whales.pdb
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day7_The_Treachery_of_Whales\Day7_The_Treachery_of_Whales\obj\Debug\netcoreapp3.1\Day7_The_Treachery_of_Whales.csprojAssemblyReference.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day7_The_Treachery_of_Whales\Day7_The_Treachery_of_Whales\obj\Debug\netcoreapp3.1\Day7_The_Treachery_of_Whales.AssemblyInfoInputs.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day7_The_Treachery_of_Whales\Day7_The_Treachery_of_Whales\obj\Debug\netcoreapp3.1\Day7_The_Treachery_of_Whales.AssemblyInfo.cs
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day7_The_Treachery_of_Whales\Day7_The_Treachery_of_Whales\obj\Debug\netcoreapp3.1\Day7_The_Treachery_of_Whales.csproj.CoreCompileInputs.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day7_The_Treachery_of_Whales\Day7_The_Treachery_of_Whales\obj\Debug\netcoreapp3.1\Day7_The_Treachery_of_Whales.dll
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day7_The_Treachery_of_Whales\Day7_The_Treachery_of_Whales\obj\Debug\netcoreapp3.1\Day7_The_Treachery_of_Whales.pdb
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day7 The Treachery of Whales\Day7_The_Treachery_of_Whales\Day7_The_Treachery_of_Whales\obj\Debug\netcoreapp3.1\Day7_The_Treachery_of_Whales.genruntimeconfig.cache

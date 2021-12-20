@@ -1,0 +1,13 @@
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day16 Packet Decoder\Day17_Trick_Shot\Day17_Trick_Shot\bin\Debug\netcoreapp3.1\Day17_Trick_Shot.exe
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day16 Packet Decoder\Day17_Trick_Shot\Day17_Trick_Shot\bin\Debug\netcoreapp3.1\Day17_Trick_Shot.deps.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day16 Packet Decoder\Day17_Trick_Shot\Day17_Trick_Shot\bin\Debug\netcoreapp3.1\Day17_Trick_Shot.runtimeconfig.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day16 Packet Decoder\Day17_Trick_Shot\Day17_Trick_Shot\bin\Debug\netcoreapp3.1\Day17_Trick_Shot.runtimeconfig.dev.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day16 Packet Decoder\Day17_Trick_Shot\Day17_Trick_Shot\bin\Debug\netcoreapp3.1\Day17_Trick_Shot.dll
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day16 Packet Decoder\Day17_Trick_Shot\Day17_Trick_Shot\bin\Debug\netcoreapp3.1\Day17_Trick_Shot.pdb
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day16 Packet Decoder\Day17_Trick_Shot\Day17_Trick_Shot\obj\Debug\netcoreapp3.1\Day17_Trick_Shot.csprojAssemblyReference.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day16 Packet Decoder\Day17_Trick_Shot\Day17_Trick_Shot\obj\Debug\netcoreapp3.1\Day17_Trick_Shot.AssemblyInfoInputs.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day16 Packet Decoder\Day17_Trick_Shot\Day17_Trick_Shot\obj\Debug\netcoreapp3.1\Day17_Trick_Shot.AssemblyInfo.cs
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day16 Packet Decoder\Day17_Trick_Shot\Day17_Trick_Shot\obj\Debug\netcoreapp3.1\Day17_Trick_Shot.csproj.CoreCompileInputs.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day16 Packet Decoder\Day17_Trick_Shot\Day17_Trick_Shot\obj\Debug\netcoreapp3.1\Day17_Trick_Shot.dll
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day16 Packet Decoder\Day17_Trick_Shot\Day17_Trick_Shot\obj\Debug\netcoreapp3.1\Day17_Trick_Shot.pdb
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day16 Packet Decoder\Day17_Trick_Shot\Day17_Trick_Shot\obj\Debug\netcoreapp3.1\Day17_Trick_Shot.genruntimeconfig.cache

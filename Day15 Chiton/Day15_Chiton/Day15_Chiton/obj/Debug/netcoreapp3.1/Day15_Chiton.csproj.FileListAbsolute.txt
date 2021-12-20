@@ -1,0 +1,13 @@
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day15 Chiton\Day15_Chiton\Day15_Chiton\bin\Debug\netcoreapp3.1\Day15_Chiton.exe
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day15 Chiton\Day15_Chiton\Day15_Chiton\bin\Debug\netcoreapp3.1\Day15_Chiton.deps.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day15 Chiton\Day15_Chiton\Day15_Chiton\bin\Debug\netcoreapp3.1\Day15_Chiton.runtimeconfig.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day15 Chiton\Day15_Chiton\Day15_Chiton\bin\Debug\netcoreapp3.1\Day15_Chiton.runtimeconfig.dev.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day15 Chiton\Day15_Chiton\Day15_Chiton\bin\Debug\netcoreapp3.1\Day15_Chiton.dll
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day15 Chiton\Day15_Chiton\Day15_Chiton\bin\Debug\netcoreapp3.1\Day15_Chiton.pdb
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day15 Chiton\Day15_Chiton\Day15_Chiton\obj\Debug\netcoreapp3.1\Day15_Chiton.csprojAssemblyReference.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day15 Chiton\Day15_Chiton\Day15_Chiton\obj\Debug\netcoreapp3.1\Day15_Chiton.AssemblyInfoInputs.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day15 Chiton\Day15_Chiton\Day15_Chiton\obj\Debug\netcoreapp3.1\Day15_Chiton.AssemblyInfo.cs
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day15 Chiton\Day15_Chiton\Day15_Chiton\obj\Debug\netcoreapp3.1\Day15_Chiton.csproj.CoreCompileInputs.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day15 Chiton\Day15_Chiton\Day15_Chiton\obj\Debug\netcoreapp3.1\Day15_Chiton.dll
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day15 Chiton\Day15_Chiton\Day15_Chiton\obj\Debug\netcoreapp3.1\Day15_Chiton.pdb
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day15 Chiton\Day15_Chiton\Day15_Chiton\obj\Debug\netcoreapp3.1\Day15_Chiton.genruntimeconfig.cache

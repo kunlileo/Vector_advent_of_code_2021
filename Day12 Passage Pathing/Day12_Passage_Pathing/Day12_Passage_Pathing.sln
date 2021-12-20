@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day12_Passage_Pathing", "Day12_Passage_Pathing\Day12_Passage_Pathing.csproj", "{A524CA8D-C666-44C7-95A1-4979DD71C4FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A524CA8D-C666-44C7-95A1-4979DD71C4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A524CA8D-C666-44C7-95A1-4979DD71C4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A524CA8D-C666-44C7-95A1-4979DD71C4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A524CA8D-C666-44C7-95A1-4979DD71C4FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE3851AE-BAC8-4091-9C6D-68C05BD94444}
+	EndGlobalSection
+EndGlobal

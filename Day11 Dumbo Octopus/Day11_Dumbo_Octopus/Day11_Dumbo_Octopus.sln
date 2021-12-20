@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day11_Dumbo_Octopus", "Day11_Dumbo_Octopus\Day11_Dumbo_Octopus.csproj", "{91D5D717-3A79-42E8-80DF-FB7A32068B51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91D5D717-3A79-42E8-80DF-FB7A32068B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D5D717-3A79-42E8-80DF-FB7A32068B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D5D717-3A79-42E8-80DF-FB7A32068B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D5D717-3A79-42E8-80DF-FB7A32068B51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82995CF1-816E-48D6-B74D-E5962694A005}
+	EndGlobalSection
+EndGlobal

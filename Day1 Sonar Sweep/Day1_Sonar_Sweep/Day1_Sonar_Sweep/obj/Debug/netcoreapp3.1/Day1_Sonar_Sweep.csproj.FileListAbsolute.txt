@@ -1,0 +1,13 @@
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day1 Sonar Sweep\Day1_Sonar_Sweep\Day1_Sonar_Sweep\bin\Debug\netcoreapp3.1\Day1_Sonar_Sweep.exe
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day1 Sonar Sweep\Day1_Sonar_Sweep\Day1_Sonar_Sweep\bin\Debug\netcoreapp3.1\Day1_Sonar_Sweep.deps.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day1 Sonar Sweep\Day1_Sonar_Sweep\Day1_Sonar_Sweep\bin\Debug\netcoreapp3.1\Day1_Sonar_Sweep.runtimeconfig.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day1 Sonar Sweep\Day1_Sonar_Sweep\Day1_Sonar_Sweep\bin\Debug\netcoreapp3.1\Day1_Sonar_Sweep.runtimeconfig.dev.json
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day1 Sonar Sweep\Day1_Sonar_Sweep\Day1_Sonar_Sweep\bin\Debug\netcoreapp3.1\Day1_Sonar_Sweep.dll
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day1 Sonar Sweep\Day1_Sonar_Sweep\Day1_Sonar_Sweep\bin\Debug\netcoreapp3.1\Day1_Sonar_Sweep.pdb
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day1 Sonar Sweep\Day1_Sonar_Sweep\Day1_Sonar_Sweep\obj\Debug\netcoreapp3.1\Day1_Sonar_Sweep.csprojAssemblyReference.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day1 Sonar Sweep\Day1_Sonar_Sweep\Day1_Sonar_Sweep\obj\Debug\netcoreapp3.1\Day1_Sonar_Sweep.AssemblyInfoInputs.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day1 Sonar Sweep\Day1_Sonar_Sweep\Day1_Sonar_Sweep\obj\Debug\netcoreapp3.1\Day1_Sonar_Sweep.AssemblyInfo.cs
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day1 Sonar Sweep\Day1_Sonar_Sweep\Day1_Sonar_Sweep\obj\Debug\netcoreapp3.1\Day1_Sonar_Sweep.csproj.CoreCompileInputs.cache
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day1 Sonar Sweep\Day1_Sonar_Sweep\Day1_Sonar_Sweep\obj\Debug\netcoreapp3.1\Day1_Sonar_Sweep.dll
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day1 Sonar Sweep\Day1_Sonar_Sweep\Day1_Sonar_Sweep\obj\Debug\netcoreapp3.1\Day1_Sonar_Sweep.pdb
+C:\Users\kli\source\repos\Vector_advent_of_code_2021\Day1 Sonar Sweep\Day1_Sonar_Sweep\Day1_Sonar_Sweep\obj\Debug\netcoreapp3.1\Day1_Sonar_Sweep.genruntimeconfig.cache
